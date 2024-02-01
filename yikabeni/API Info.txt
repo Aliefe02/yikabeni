@@ -1,0 +1,19 @@
+https://main-major-basilisk.ngrok-free.app/register
+{
+    "API_KEY": "qR9eL2uT5pX7aBzW8vYcN1sM0oK3gF4hD6jVlIyZnGxEwQb",
+    "email": "ali@gmail.com",
+    "password": "aliefe123",
+    "first_name": "",
+    "last_name":"",
+}
+
+https://main-major-basilisk.ngrok-free.app/login
+{
+    "API_KEY": "qR9eL2uT5pX7aBzW8vYcN1sM0oK3gF4hD6jVlIyZnGxEwQb",
+    "email": "deneme@gmail.com",
+    "password": "deneme123"
+}
+
+https://main-major-basilisk.ngrok-free.app/register
+cookie gerekli sadece
+
