@@ -1,0 +1,4 @@
+1- Card owner name surname
+2- Luhn Algorithm for card number
+3- Dont make request with expired card
+4- AMEX card should be available
